@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Stockdredis.dir/main.cpp.o CMakeFiles/Stockdredis.dir/src/StockManager.cpp.o -o Stockdredis  -Wl,-rpath,/usr/local/lib /usr/local/lib/libhiredis.so 

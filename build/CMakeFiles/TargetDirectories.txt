@@ -1,3 +1,0 @@
-/home/intern.minix12@corp.merillife.com/Desktop/stockdredis/build/CMakeFiles/Stockdredis.dir
-/home/intern.minix12@corp.merillife.com/Desktop/stockdredis/build/CMakeFiles/edit_cache.dir
-/home/intern.minix12@corp.merillife.com/Desktop/stockdredis/build/CMakeFiles/rebuild_cache.dir
